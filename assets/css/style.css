@@ -1,0 +1,41 @@
+/* Estilos da página index.html */
+
+.meio{
+    text-align: center;
+}
+ 
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.cont{
+    display: flex;
+    justify-content: flex-end;
+}
+.menu li {
+    display: inline;
+    padding: 15px;
+    font-size: 20px;
+}
+.menu li a{
+    text-decoration: none;
+    color: blue;
+}
+.menu li a:hover{
+    color: rgb(30, 4, 71);
+}
+.tm{
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+}
+.mb{
+    margin-bottom: 50px;
+}
+
+/*Estilos da página contato.html*/
+
+.ml{
+    margin-left: 50px;
+}
